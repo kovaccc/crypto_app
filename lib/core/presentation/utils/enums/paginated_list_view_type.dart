@@ -1,0 +1,1 @@
+enum PaginatedListViewType { infiniteScroll, loadMoreButton }

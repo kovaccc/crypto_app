@@ -1,0 +1,10 @@
+{
+  "@@locale": "en",
+  "server_failure": "Server failure",
+  "something_went_wrong": "Something went wrong",
+  "token_list_empty": "Token list is empty",
+  "coins_list": "Coins list",
+  "calculator_price_hint_usd": "USD",
+  "calculator_quantity_hint": "Quantity",
+  "token_price_graph_description": "7 days price in USD"
+}
