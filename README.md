@@ -1,5 +1,5 @@
 # crypto_app
-An example Flutter crypto app using the [Coingecko API]([https://repozitorij.unios.hr/islandora/object/etfos%3A4067](https://docs.coingecko.com/v3.0.1/reference/coins-list).
+An example Flutter crypto app using the [Coingecko API](https://docs.coingecko.com/v3.0.1/reference/coins-list).
 
 <img src="https://github.com/kovaccc/FlutterCompareAppAndroid/assets/75457058/9f53421b-2afd-4fe9-b982-ad31a0110212" width="400" height="900">
 
@@ -51,7 +51,7 @@ This layer holds all the widgets, which fetch the data from the Notifiers and ma
 - [flutter_hooks](https://pub.dev/packages/flutter_hooks): Provides a new approach to managing state in Flutter widgets with HookWidget, enhancing code reuse and composition.
 - [loggy](https://pub.dev/packages/loggy) is used to enhance logging capabilities, making debugging and development easier by providing clear, customizable log outputs.
 - [gap](https://pub.dev/packages/gap): Used to create gaps between widgets, simplifying layout construction without needing to use padding or margins directly.
-  [fl_chart](https://pub.dev/packages/fl_chart): A library for creating charts and graphs, enhancing the data visualization capabilities of the app.
+- [fl_chart](https://pub.dev/packages/fl_chart): A library for creating charts and graphs, enhancing the data visualization capabilities of the app.
 - [intl](https://pub.dev/packages/intl): Provides internationalization and localization capabilities, allowing the app to support multiple languages.
 - [pretty_dio_logger](https://pub.dev/packages/pretty_dio_logger): An extension of Dio that makes it easier to log network requests and responses in a readable format.
 
