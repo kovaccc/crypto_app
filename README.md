@@ -18,7 +18,7 @@ An example Flutter crypto app using the [Coingecko API](https://docs.coingecko.c
 The app is composed by three main layers.
 
 ## Data Layer
-The data layer includes repositories, mappers, models and datasources. In this application, data is fetched from the [Coingecko API]([https://repozitorij.unios.hr/islandora/object/etfos%3A4067](https://docs.coingecko.com/v3.0.1/reference/coins-list). The data is then parsed (using json_serializable) and returned the type-safe using entity class `Token`.
+The data layer includes repositories, mappers, models and datasources. In this application, data is fetched from the [Coingecko API](https://docs.coingecko.com/v3.0.1/reference/coins-list). The data is then parsed (using json_serializable) and returned the type-safe using entity class `Token`.
 
 ## Domain Layer
 The domain layer contains interfaces for repositories (e.g. `TokensRepoository`) implemented in the data layer and defines entities (e.g. `Token`) central to the application's business logic. It also includes use cases (`GetTokensUseCase`) that encapsulate business rules, making them reusable across the application for improved modularity and maintainability.
