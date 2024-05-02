@@ -7,8 +7,6 @@ An example Flutter crypto app using the [Coingecko API](https://docs.coingecko.c
 
 <img src="https://github.com/kovaccc/FlutterCompareAppAndroid/assets/75457058/979d5399-6fa3-4aa0-93c8-b7bc54fd371b" width="400" height="900">
 
-Flutter crypto app with token search, price graphs, and a USD-quantity converter using 
-
 # Supported Features
 - Browse a paginated list of cryptocurrency tokens.
 - Search for tokens using a dynamic search bar.
