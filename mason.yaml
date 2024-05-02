@@ -1,0 +1,4 @@
+bricks:
+  feature_scaffold:
+    git:
+      url: https://github.com/DMesek/feature_scaffold.git

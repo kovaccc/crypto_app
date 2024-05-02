@@ -1,0 +1,11 @@
+{
+  "bricks": {
+    "feature_scaffold": {
+      "git": {
+        "url": "https://github.com/DMesek/feature_scaffold.git",
+        "path": "",
+        "ref": "59703efacf31ae9a4dfd1215a40b7c44465651f6"
+      }
+    }
+  }
+}
