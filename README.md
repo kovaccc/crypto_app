@@ -53,7 +53,7 @@ This layer holds all the widgets, which fetch the data from the Notifiers and ma
 - [intl](https://pub.dev/packages/intl): Provides internationalization and localization capabilities, allowing the app to support multiple languages.
 - [pretty_dio_logger](https://pub.dev/packages/pretty_dio_logger): An extension of Dio that makes it easier to log network requests and responses in a readable format.
 
-#About the Coingecko API
+# About the Coingecko API
 The app shows data from the following endpoints:
 
  - [Coins List with Market Data](https://api.coingecko.com/api/v3/coins/markets)
